@@ -1,1 +1,3 @@
-# hackday
+# Hackday
+- Symbolic Group
+- Pedagogy Group
